@@ -1,0 +1,3 @@
+D:/Dante ehh/testgit/cmake-build-debug/CMakeFiles/testgit.dir
+D:/Dante ehh/testgit/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Dante ehh/testgit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
